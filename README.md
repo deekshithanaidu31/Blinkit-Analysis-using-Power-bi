@@ -13,10 +13,10 @@ The goal of this project is to understand business trends and help in better dec
 📈 Average Sales: $141
 
 4)Key Insights:
-Fruits and Snacks are the top-selling product categories
-Tier 3 outlets generate the highest sales
-Medium-sized outlets contribute the most revenue
-Sales increased significantly around 2018–2019
+Fruits and Snacks are the top-selling product categories,
+Tier 3 outlets generate the highest sales,
+Medium-sized outlets contribute the most revenue,
+Sales increased significantly around 2018–2019,
 Customer ratings are consistently around 3.9
 
 5)Tools Used:

@@ -1,7 +1,7 @@
-1)Title 
+1)Title :
 Blinkit-Analysis-using-Power-bi
 
-2)Purpose
+2)Purpose:
 This project is a Power BI dashboard created to analyze Blinkit grocery sales data.
 It provides insights into sales performance, product categories, outlet types, and customer ratings.
 The goal of this project is to understand business trends and help in better decision-making using data visualization.
@@ -20,8 +20,8 @@ Sales increased significantly around 2018–2019
 Customer ratings are consistently around 3.9
 
 5)Tools Used:
-Power BI (Data Visualization)
-Excel (Data Cleaning & Preparation)
+-Power BI (Data Visualization)
+-Excel (Data Cleaning & Preparation)
 
 6)How to use:
 Download the .pbix file

@@ -20,8 +20,8 @@ Sales increased significantly around 2018–2019
 Customer ratings are consistently around 3.9
 
 5)Tools Used:
--Power BI (Data Visualization)
--Excel (Data Cleaning & Preparation)
+Power BI (Data Visualization),
+Excel (Data Cleaning & Preparation)
 
 6)How to use:
 Download the .pbix file

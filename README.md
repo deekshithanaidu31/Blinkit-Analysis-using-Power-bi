@@ -24,14 +24,14 @@ Power BI (Data Visualization),
 Excel (Data Cleaning & Preparation)
 
 6)How to use:
-Download the .pbix file
-Open it using Power BI Desktop
+Download the .pbix file,
+Open it using Power BI Desktop,
 Explore the dashboard using filters and visuals
 
 7)Skills Demonstrated:
-Data Cleaning
-Data Visualization
-Dashboard Design
+Data Cleaning,
+Data Visualization,
+Dashboard Design,
 Business Insights Generation
 
 8)Dashboard
